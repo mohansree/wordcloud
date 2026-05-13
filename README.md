@@ -1,4 +1,6 @@
 # 💬 Chat Word Cloud Generator
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/mohansree/wordcloud/blob/main/WordCloud.ipynb)
+
 Visualize the words you use most. This project analyzes a body of text and generates a word cloud weighted by frequency — originally built to process a personal **ChatGPT conversation export**, with a fallback to Jane Austen's Emma from the NLTK Gutenberg corpus.
 
 # 🖼 Example Output
